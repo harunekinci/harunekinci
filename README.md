@@ -1,12 +1,12 @@
 # Merhaba, ben Harun 👋
 
-**Software Developer · SAP Full-Stack Developer**
+**Software Developer · Full-Stack Developer**
 
 📍 İstanbul, Türkiye
 
-5+ yıllık deneyime sahip bir SAP Full-Stack Developer olarak, ölçeklenebilir, sürdürülebilir ve kullanıcı odaklı kurumsal uygulamalar geliştirmeye odaklanıyorum. Deneyimim backend, frontend, entegrasyon ve yazılım mimarisi katmanlarını kapsıyor; kurumsal uygulamaların farklı katmanlarında uçtan uca çalışıyorum.
+5+ yıllık deneyime sahip bir Full-Stack Developer olarak, ölçeklenebilir, sürdürülebilir ve kullanıcı odaklı kurumsal uygulamalar geliştirmeye odaklanıyorum. Deneyimim backend, frontend, entegrasyon ve yazılım mimarisi katmanlarını kapsıyor; kurumsal uygulamaların farklı katmanlarında uçtan uca çalışıyorum.
 
-İlgi alanlarım arasında ABAP, SAP Fiori, SAPUI5, OData ve S/4HANA öne çıkarken; Next.js, Clean Core ve Microservices gibi modern teknoloji ve yaklaşımları da yakından takip ediyorum.
+İlgi alanlarım arasında ABAP, SAPUI5, OData ve S/4HANA öne çıkarken; Next.js, Clean Core ve Microservices gibi modern teknoloji ve yaklaşımları da yakından takip ediyorum.
 
 Yeni teknolojiler öğrenmekten, sistemleri tek bir katmanın ötesinde bütünsel olarak anlamaktan ve yazılımın tasarlanma, geliştirilme ve teslim edilme biçimini sürekli iyileştirmekten keyif alıyorum.
 
@@ -20,10 +20,8 @@ Yeni teknolojiler öğrenmekten, sistemleri tek bir katmanın ötesinde bütüns
 ![S/4HANA](https://img.shields.io/badge/S%2F4HANA-427EC1?style=flat-square)
 ![BAPIs](https://img.shields.io/badge/BAPIs-427EC1?style=flat-square)
 ![Enhancements](https://img.shields.io/badge/Enhancements-427EC1?style=flat-square)
-![RESTful Services](https://img.shields.io/badge/RESTful%20Services-427EC1?style=flat-square)
 
 ### 🎨 Frontend Development
-![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-427EC1?style=flat-square)
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-427EC1?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
